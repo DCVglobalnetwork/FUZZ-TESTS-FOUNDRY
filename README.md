@@ -53,7 +53,7 @@ Contributions are welcome! Please follow these steps:
 Please make sure to update tests as appropriate.
 
 ### Contact 
-
+Magda Jankowksa - [free2magda46@yahoo.com](mailto:email@example.com)
 
 ***Master Foundry for Security Testing***
 
