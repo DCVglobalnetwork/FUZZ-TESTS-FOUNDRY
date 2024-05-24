@@ -53,7 +53,7 @@ Please make sure to update tests as appropriate.
 ### Contact 
 Follow me for more projects and updates also buiding our decentralized network
 
-https://github.com/DCVglobalnetwork
+Magda Jankowska - https://github.com/DCVglobalnetwork
 
 ***Master Foundry for Security Testing***
 
