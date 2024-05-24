@@ -34,12 +34,10 @@ https://github.com/OpenZeppelin/openzeppelin-contracts/tree/01ef448981be9d20ca85
 https://github.com/foundry-rs/forge-std/tree/36c303b7ffdd842d06b1ec2744c9b9b5fb3083f3
 
 
-### 
-
-### Format
+### Running Tests
 
 ```shell
-$ forge fmt
+forge test
 ```
 
 ### Contributing
