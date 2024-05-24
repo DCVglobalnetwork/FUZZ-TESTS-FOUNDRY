@@ -51,7 +51,9 @@ Contributions are welcome! Please follow these steps:
 Please make sure to update tests as appropriate.
 
 ### Contact 
-Magda Jankowksa - [free2magda46@yahoo.com](mailto:email@example.com)
+Follow me for more projects and updates also buiding our decentralized network
+
+https://github.com/DCVglobalnetwork
 
 ***Master Foundry for Security Testing***
 
