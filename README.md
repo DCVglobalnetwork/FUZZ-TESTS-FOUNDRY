@@ -6,7 +6,7 @@ In programming and software development, fuzzing or fuzz testing is an automated
 
 # Security researcher 
 
-For the purpose of security, input that crosses a trust boundary is often the most useful.[1] For example, it is more important to fuzz code that handles the upload of a file by any user than it is to fuzz the code that parses a configuration file that is accessible only to a privileged user.
+For the purpose of security, input that crosses a trust boundary is often the most useful. For example, it is more important to fuzz code that handles the upload of a file by any user than it is to fuzz the code that parses a configuration file that is accessible only to a privileged user.
 
 ## Documentation
 
@@ -24,22 +24,17 @@ regardless of the actions performed on it. These invariants are then tested to e
 
 ## Usage
 
-openzeppelin-contracts
+***openzeppelin-contracts***
 
 https://github.com/OpenZeppelin/openzeppelin-contracts/tree/01ef448981be9d20ca85f2faf6ebdf591ce409f3
 
 
-### Build
+***forge-std***
 
-```shell
-$ forge build
-```
+https://github.com/foundry-rs/forge-std/tree/36c303b7ffdd842d06b1ec2744c9b9b5fb3083f3
 
-### Test
 
-```shell
-$ forge test
-```
+### 
 
 ### Format
 
@@ -47,34 +42,26 @@ $ forge test
 $ forge fmt
 ```
 
-### Gas Snapshots
+### Contributing
+Contributions are welcome! Please follow these steps:
+
+1. Fork the project.
+2. Create a new branch: git checkout -b feature-name
+3. Make your changes and commit them: git commit -m 'Add some feature'
+4. Push to the branch: git push origin feature-name
+5. Submit a pull request.
+Please make sure to update tests as appropriate.
+
+### Contact 
+
+
+***Master Foundry for Security Testing***
+
+***Set up Foundry in your development environment. Start with basic testing and move on to more complex fuzz testing.***
 
 ```shell
-$ forge snapshot
+git clone https://github.com/foundry-rs/foundry.git
+cd foundry
+cargo install --path 
 ```
 
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
